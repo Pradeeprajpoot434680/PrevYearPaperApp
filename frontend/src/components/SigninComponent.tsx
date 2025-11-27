@@ -93,7 +93,7 @@ export function SigninComponent() {
               onClick={() => navigate("/send-otp")}
               className="text-xs text-muted-foreground underline-offset-4 hover:underline cursor-pointer"
             >
-              Verify Mail ?
+              Verify Your Mail?
             </span>
           </div>
           <div className="relative">
