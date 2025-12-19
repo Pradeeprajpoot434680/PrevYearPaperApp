@@ -15,7 +15,8 @@ const app = express();
 const port = process.env.PORT || 3000;
 const allowedOrigins = [
   'https://prev-year-paper-app.vercel.app',
-  "https://prevpaper.pdeep.store"
+  "https://prevpaper.pdeep.store",
+   "http://localhost:5173"
 ];
 
 
