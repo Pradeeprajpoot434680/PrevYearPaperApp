@@ -16,7 +16,8 @@ const port = process.env.PORT || 3000;
 const allowedOrigins = [
   'https://prev-year-paper-app.vercel.app',
   "https://prevpaper.pdeep.store",
-   "http://localhost:5173"
+   "http://localhost:5173",
+  "http://localhost:3000"
 ];
 
 
