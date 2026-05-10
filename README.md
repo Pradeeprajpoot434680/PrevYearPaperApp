@@ -203,16 +203,6 @@ Contributions, bug reports, and feature requests are welcome!
 
 Please make sure your code compiles (`npm run build`) and follows the existing code style before submitting a PR.
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for details, or refer to the [MIT License text](https://opensource.org/licenses/MIT).
-
-> If a `LICENSE` file is not yet present in the repository, one will be added in a follow-up commit.
-
----
 
 ## 📬 Contact & Support
 
